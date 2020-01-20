@@ -1,0 +1,20 @@
+{
+  "name": "test-pwa",
+  "version": "1.0.0",
+  "description": "Test Nuxt.js PWA modules",
+  "author": "Ashkan Ph",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.3",
+    "@nuxtjs/pwa": "^3.0.0-beta.19",
+    "cors": "^2.8.5",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
